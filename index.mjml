@@ -18,36 +18,34 @@
       margin: 0 !important;
       padding:50px 40px !important;
       }
-      
+
     </mj-style>
   </mj-head>
-  <mj-body >
-    <mj-wrapper padding-top="50px"
-    padding-bottom="100px"
-    background-color="#ededed">
+  <mj-body>
+    <mj-wrapper padding-top="50px" padding-bottom="100px" background-color="#ededed">
 
       <mj-section css-class="order__styles">
-        <mj-column >
+        <mj-column>
           <mj-text text-transform="uppercase">
             <h1>order recipt</h1>
           </mj-text>
         </mj-column>
-          <mj-table>
-            <tr>
-              <td style="line-height:24px">
-                 Thanks for your order, FRED!
-            Your order has been submitted to <span style="font-weight:bold;">Dog House Grill CA - Fresno</span>. You'll receive a second email letting you know when it will be ready for pickup.
-              </td>
-            </tr>
-                     <tr>
-                      <td>
-                        <table  cellpadding="0" cellspacing="0" style="border: 1px solid #e4e4e4 ;
+        <mj-table>
+          <tr>
+            <td style="line-height:24px">
+              Thanks for your order, FRED!
+              Your order has been submitted to <span style="font-weight:bold;">Dog House Grill CA - Fresno</span>. You'll receive a second email letting you know when it will be ready for pickup.
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <table cellpadding="0" cellspacing="0" style="border: 1px solid #e4e4e4 ;
                               border-collapse: separate ;
                               border-radius: 2px ;
                               margin-top: 20px ;
                               text-align: left ;">
-                          <tr>
-                     <td style="font-size: 16px;
+                <tr>
+                  <td style="font-size: 16px;
                             margin: 0;
                             padding: 15px;
                             background-color: #1fbcbe;
@@ -56,136 +54,135 @@
                             color: #fff;
                             letter-spacing: 1.5px;
                             text-align: center;
-                            text-transform: uppercase;"> 
-                            Details for order #141416144
-                            </td>
-                          </tr>
-                          
-                          
-                          <tr>
-                            <td>
-                              <table width="100%"  cellpadding="0" cellspacing="0">
-                                <tr>
-                                  <td width="25px" style="
+                            text-transform: uppercase;">
+                    Details for order #141416144
+                  </td>
+                </tr>
+
+
+                <tr>
+                  <td>
+                    <table width="100%" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td width="25px" style="
                                   padding-left: 20px;">
-                                    <p style="line-height: 24px;
+                          <p style="line-height: 24px;
                                     margin: 0;
                                     padding: 5px 0;">2</p>
-                                  </td>
-                                  <td width="325px" style="
+                        </td>
+                        <td width="325px" style="
                                   padding-left: 10px;">
-                                    <p style="    line-height: 24px;
+                          <p style="    line-height: 24px;
                                     margin: 0;
                                     padding: 5px 0;
                                     font-weight: bold;">Tri-Tip Sandwich </p>
-                                  </td>
-                                  <td>
-                                  </td>
-                                </tr>
-                                <tr>
-                                  <td>
-                                    
-                                  </td>
-                                  <td width="335px" style="line-height: 20px;padding-left: 20px;">
-                                   Regular       
-                                  </td>
-                                  <td width="130px">
-                                    $13.00 ea.
-                                  </td>
-                                </tr>
-                              </table
-                            </td>
-                          </tr>
-                               <tr>
-                            <td>
-                              <table width="100%"  cellpadding="0" cellspacing="0">
-                                <tr>
-                                  <td width="25px" style="
+                        </td>
+                        <td>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+
+                        </td>
+                        <td width="335px" style="line-height: 20px;padding-left: 20px;">
+                          Regular
+                        </td>
+                        <td width="130px">
+                          $13.00 ea.
+                        </td>
+                      </tr>
+                    </table </td>
+                </tr>
+                <tr>
+                  <td>
+                    <table width="100%" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td width="25px" style="
                                   padding-left: 20px;">
-                                    <p style="line-height: 24px;
+                          <p style="line-height: 24px;
                                     margin: 0;
                                     padding: 5px 0;">1</p>
-                                  </td>
-                                  <td width="325px" style="
+                        </td>
+                        <td width="325px" style="
                                   padding-left: 10px;">
-                                    <p style="    line-height: 24px;
+                          <p style="    line-height: 24px;
                                     margin: 0;
                                     padding: 5px 0;
                                     font-weight: bold;">Fries </p>
-                                  </td>
-                                  <td>
-                                  </td>
-                                </tr>
-                                <tr>
-                                  <td>
-                                    
-                                  </td>
-                                  <td width="335px" style="line-height: 20px;padding-left: 20px;">
-                                   Basket     
-                                  </td>
-                                  <td width="130px">
-                                    $4.99 
-                                  </td>
-                                </tr>
-                              </table
-                            </td>
-                          </tr>
-                            <tr>
-                              <td style="padding:15px;
+                        </td>
+                        <td>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+
+                        </td>
+                        <td width="335px" style="line-height: 20px;padding-left: 20px;">
+                          Basket
+                        </td>
+                        <td width="130px">
+                          $4.99
+                        </td>
+                      </tr>
+                    </table </td>
+                </tr>
+                <tr>
+                  <td style="padding:15px;
                                 background-color: #f7f7f7;
                                 text-transform: none;">
-                                <table align="right" cellpadding="0" cellspacing="0">
-                                  <tr>
-                                    <td style="padding-right:                                                 15px;">
-                                      Sub-total:
-                                    </td>
-                                    <td style=" line-height: 20px;
+                    <table align="right" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td style="padding-right:                                                 15px;">
+                          Sub-total:
+                        </td>
+                        <td style=" line-height: 20px;
                                     text-align: left;
                                     width: 95px;">
-    																		$30.99
-                                    </td>
-                                  </tr>
-                                    <tr>
-                                    <td style="padding-right: 15px;">
-                                      Taxes:
-                                    </td>
-                                    <td style=" line-height: 20px;
+                          $30.99
+                        </td>
+                      </tr>
+                      <tr>
+                        <td style="padding-right: 15px;">
+                          Taxes:
+                        </td>
+                        <td style=" line-height: 20px;
                                     text-align: left;
                                     width: 95px;">
-    																		$2.47
-                                    </td>
-                                  </tr>
-                                  <tr>
-                                    <td style="padding-right: 15px;">
-                                      Service Fee:
-                                    </td>
-                                    <td style=" line-height: 20px;
+                          $2.47
+                        </td>
+                      </tr>
+                      <tr>
+                        <td style="padding-right: 15px;">
+                          Service Fee:
+                        </td>
+                        <td style=" line-height: 20px;
                                     text-align: left;
                                     width: 95px;">
-    																		$2.00
-                                    </td>
-                                  </tr>
-                                   <tr>
-                                    <td style="padding-right: 15px;">
-                                      <strong>Total:</strong>
-                                    </td>
-                                    <td style=" line-height: 20px;
+                          $2.00
+                        </td>
+                      </tr>
+                      <tr>
+                        <td style="padding-right: 15px;">
+                          <strong>Total:</strong>
+                        </td>
+                        <td style=" line-height: 20px;
                                     text-align: left;
                                     width: 95px;">
-    																		<strong>$35.46</strong>
-                                    </td>
-                                  </tr>
-                                </table>
-                              </td>
-                            </tr>
-                              <tr>
-                                <td>                                                                   <table width="100%" cellpadding="0" cellspacing="0" align="center" style="border: 1px 	solid                                                               #e4e4e4;
+                          <strong>$35.46</strong>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <table width="100%" cellpadding="0" cellspacing="0" align="center" style="border: 1px 	solid                                                               #e4e4e4;
                                       border-collapse: separate;
                                       border-radius: 2px;
                                       margin-top: 20px;
                                       text-align: left;">
-                                     <tr>
-                                       <td align="center" style="font-size: 16px;
+                      <tr>
+                        <td align="center" style="font-size: 16px;
                                         margin: 0;
                                         padding: 15px;
                                         background-color: #1fbcbe;
@@ -195,35 +192,94 @@
                                         letter-spacing: 1.5px;
                                         text-align: center;
                                         text-transform: uppercase;">
-                                         
-                                        Payment Information
-          
-                                       </td>
-                                     </tr>
-                                  </table>
-                                </td>
-                              </tr>
-                              <tr>
-                                <td>
-                                  <table cellpadding="0" cellspacing="0" width="100%" style="padding: 20px 30px;">
-                                    <tr>
-                                      <td> 
-                                        Credit Card
-                                      </td>
-                                    </tr>
-                                  </table>
-                                </td>
-                              </tr>
-                              
-                        </table>
-                      </td>
-                    </tr>
+
+                          Payment Information
+
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+                <tr>
+                  <td style="padding: 20px 30px;">
+                    <table cellpadding="0" cellspacing="0" width="100%">
+                      <tr style="margin:0;padding:0;">
+                        <td>
+                          Credit Card
+                        </td>
+                        <td>
+                          Date
+                        </td>
+                        <td>
+                          Total
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          Google Pay
+                        </td>
+                        <td>
+                          Jul 6, 2021
+                        </td>
+                        <td>
+                          $35.46
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+
+          </tr>
+
+          </table>
+          </td>
+          </tr>
+          <tr>
+            <td align="center" style="text-                                        align:center;">
+              <p style="line-height: 20px;
+                                  margin: 0;
+                                  padding: 20px 0;">
+                Questions about your order?
+                <br>
+                Reach Dog House Grill CA - Fresno at <a href="tel:5592949920" style="color: #ce483e; text-decoration: none;" target="_blank">(559) 294-9920</a>
+                  .
+              </p>
+                <p style="line-height: 20px; margin: 0;padding: 5px 0;">
+                Dog House Grill CA - Fresno has an app! 
+                  <br>
+                    Order straight through your phone.
+                    <br>
+                      <a href="https://apps.apple.com/us/app/dog-house-grill-fresno/id1556388761?app" data-saferedirecturl="https://www.google.com/url?q=https://apps.apple.com/us/app/dog-house-grill-fresno/id1556388761?app&source=gmail&ust=1629661600765000&usg=AFQjCNHlTzipXGuNG-HhTRGanPed0_grUw" target="_blank" style="color: #ce483e;
+    text-decoration: none;">
+                        <img src="https://ci4.googleusercontent.com/proxy/yVsi_54z-JbeNmYN3EDTkQ8scOVWxdhzK5wa2au88KIRqoNtA2H2dFfNZKcGjMR7UzBvNv4WdxcTjOH_McVhhnGGNujlDMcEl08cPDlXK0uwtJNMV5O2vg=s0-d-e1-ft#https://cf.chownowcdn.com/latest/static/images/email/btn_appstore.png" style=" padding: 20px 10px 0;
+    width: 125px;"width="125" >
+                        </img>
+                      </a>
                       
-                        
-                     
-          </mj-table>
+                        <a href="https://play.google.com/store/apps/details?id=com.chownow.doghousegrillfresno" data-saferedirecturl="https://www.google.com/url?q=https://play.google.com/store/apps/details?id%3Dcom.chownow.doghousegrillfresno&source=gmail&ust=1629661600765000&usg=AFQjCNHkunJYS95cyWLwC3jALht4CWLRYg" target="_blank"  style="color: #ce483e;
+    text-decoration: none;">
+                        <img src="https://ci4.googleusercontent.com/proxy/W_C1Sxu7iReROqPFhdwp-4OqxeSYrlobJg-Lrzj_wJZCY_SpxnatDYqunFFfVDptKPGYXLKb3y5BbM4Noko-4vDjKEsgPsu6xe0G2wQeyMaIjI5rIRtm=s0-d-e1-ft#https://cf.chownowcdn.com/latest/static/images/email/btn_android.png" alt="Android App" width="125"  style=" padding: 20px 10px 0;
+    width: 125px;">
+                        </img>
+                      </a>
+                </p>
+            </td>
+           </tr>
+            <tr>
+              <td style="text-align: center;" align="center">
+                <a href="https://www.chownow.com/" style="color: #ce483e;
+    text-decoration: none;" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://www.chownow.com/&source=gmail&ust=1629704852900000&usg=AFQjCNGYO2EQneRFmM5JOppBxqhHI7vphA">
+                  <img src="https://ci3.googleusercontent.com/proxy/vRsTIQjHHIs0_ohM9XPIcblAr2LqyEQ6m4bv2xMpBIGekE0qvrTNw0k2cyGNAQOrMr8RePTNX71yUMN8xh_YBBjm7hjwmPdt2SXKEjRCG3gFQfJ6CQsnU1smZ-JiH23K=s0-d-e1-ft#https://cf.chownowcdn.com/latest/static/images/logos/poweredby-logo-color.png" style="height: 20px;
+    padding-top: 30px;" height="20">
+                 
+                </a>
+              </td>
+           </tr>
+        </mj-table>
       </mj-section>
-     
+   		
+
     </mj-wrapper>
+           
   </mj-body>
 </mjml>
